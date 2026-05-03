@@ -3355,11 +3355,11 @@
                         "zoom"
                     ],
                     14,
-                    "#EFF3F5",
+                    "#ae4545",
                     16.5,
-                    "#EFF3F5",
+                    "#ae4545",
                     17,
-                    "#CCD0E2"
+                    "#f2a797"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
@@ -3437,11 +3437,11 @@
                         "zoom"
                     ],
                     12,
-                    "#E0E3F0",
+                    "#ff5b5b",
                     16.5,
-                    "#E0E3F0",
+                    "#ff5b5b",
                     17,
-                    "#CCD0E2"
+                    "#f2a797"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
@@ -3527,11 +3527,11 @@
                         "zoom"
                     ],
                     10,
-                    "#D5DBEB",
+                    "#fc8989",
                     16.5,
-                    "#D5DBEB",
+                    "#fc8989",
                     17,
-                    "#CCD0E2"
+                    "#f2a797"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
