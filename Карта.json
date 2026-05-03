@@ -2481,7 +2481,7 @@
                 "visibility": "visible"
             },
             "paint": {
-                "line-color": "#F4F3F0",
+                "line-color": "#cc0000",
                 "line-width": {
                     "stops": [
                         [
