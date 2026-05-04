@@ -2405,7 +2405,7 @@
                 "visibility": "visible"
             },
             "paint": {
-                "fill-color": "#F4F3F0"
+                "fill-color": "#cc0000"
             }
         },
         {
@@ -3355,11 +3355,11 @@
                         "zoom"
                     ],
                     14,
-                    "#ae4545",
+                    "#cc0000",
                     16.5,
-                    "#ae4545",
+                    "#cc0000",
                     17,
-                    "#f2a797"
+                    "#cc0000"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
@@ -3437,11 +3437,11 @@
                         "zoom"
                     ],
                     12,
-                    "#ff5b5b",
+                    "#cc0000",
                     16.5,
-                    "#ff5b5b",
+                    "#cc0000",
                     17,
-                    "#f2a797"
+                    "#cc0000"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
@@ -3527,11 +3527,11 @@
                         "zoom"
                     ],
                     10,
-                    "#fc8989",
+                    "#cc0000",
                     16.5,
-                    "#fc8989",
+                    "#cc0000",
                     17,
-                    "#f2a797"
+                    "#cc0000"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
@@ -3609,11 +3609,11 @@
                         "zoom"
                     ],
                     10,
-                    "#D5DBEB",
+                    "#cc0000",
                     16.5,
-                    "#D5DBEB",
+                    "#cc0000",
                     17,
-                    "#CCD0E2"
+                    "#cc0000"
                 ],
                 "line-opacity": {
                     "stops": [
@@ -3710,11 +3710,11 @@
                         "zoom"
                     ],
                     9,
-                    "#D5DBEB",
+                    "#cc0000",
                     16.5,
-                    "#D5DBEB",
+                    "#cc0000",
                     17,
-                    "#CCD0E2"
+                    "#cc0000"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
@@ -3800,11 +3800,11 @@
                         "zoom"
                     ],
                     9,
-                    "#D5DBEB",
+                    "#cc0000",
                     16.5,
-                    "#D5DBEB",
+                    "#cc0000",
                     17,
-                    "#CCD0E2"
+                    "#cc0000"
                 ],
                 "line-opacity": {
                     "stops": [
@@ -3901,13 +3901,13 @@
                         "zoom"
                     ],
                     7,
-                    "#8A97B7",
+                    "#cc0000",
                     12,
-                    "#CCD0E2",
+                    "#cc0000",
                     16.5,
-                    "#CCD0E2",
+                    "#cc0000",
                     17,
-                    "#CCD0E2"
+                    "#cc0000"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
@@ -3993,13 +3993,13 @@
                         "zoom"
                     ],
                     7,
-                    "#8A97B7",
+                    "#cc0000",
                     12,
-                    "#CCD0E2",
+                    "#cc0000",
                     16.5,
-                    "#CCD0E2",
+                    "#cc0000",
                     17,
-                    "#CCD0E2"
+                    "#cc0000"
                 ],
                 "line-opacity": {
                     "stops": [
@@ -4105,9 +4105,9 @@
                         "zoom"
                     ],
                     7,
-                    "#8288AF",
+                    "#cc0000",
                     12,
-                    "#BFC4DC"
+                    "#cc0000"
                 ],
                 "line-opacity": 0.5,
                 "line-width": {
@@ -4194,9 +4194,9 @@
                         "zoom"
                     ],
                     7,
-                    "#8288AF",
+                    "#cc0000F",
                     12,
-                    "#BFC4DC"
+                    "#cc0000"
                 ],
                 "line-opacity": {
                     "stops": [
@@ -4321,11 +4321,11 @@
                         "zoom"
                     ],
                     14,
-                    "#DADDEA",
+                    "#cc0000",
                     16.5,
-                    "#DADDEA",
+                    "#cc0000",
                     17,
-                    "#B2BAD0"
+                    "#cc0000"
                 ],
                 "line-dasharray": [
                     1,
@@ -4446,11 +4446,11 @@
                         "zoom"
                     ],
                     14,
-                    "#DADDEA",
+                    "#cc0000",
                     16.5,
-                    "#DADDEA",
+                    "#cc0000",
                     17,
-                    "#B2BAD0"
+                    "#cc0000"
                 ],
                 "line-dasharray": [
                     1,
@@ -4551,11 +4551,11 @@
                         "zoom"
                     ],
                     14,
-                    "#CCD2E2",
+                    "#cc0000",
                     16.5,
-                    "#CCD2E2",
+                    "#cc0000",
                     17,
-                    "#B2BAD0"
+                    "#cc0000"
                 ],
                 "line-dasharray": [
                     1,
@@ -4664,11 +4664,11 @@
                         "zoom"
                     ],
                     14,
-                    "#CCD2E2",
+                    "#cc0000",
                     16.5,
-                    "#CCD2E2",
+                    "#cc0000",
                     17,
-                    "#B2BAD0"
+                    "#cc0000"
                 ],
                 "line-dasharray": [
                     1,
@@ -4777,11 +4777,11 @@
                         "zoom"
                     ],
                     13,
-                    "#BEC6DA",
+                    "#cc0000",
                     16.5,
-                    "#BEC6DA",
+                    "#cc0000",
                     17,
-                    "#B2BAD0"
+                    "#cc0000"
                 ],
                 "line-dasharray": [
                     1,
@@ -4891,11 +4891,11 @@
                         "zoom"
                     ],
                     13,
-                    "#BEC6DA",
+                    "#cc0000",
                     16.5,
-                    "#BEC6DA",
+                    "#cc0000",
                     17,
-                    "#B2BAD0"
+                    "#cc0000"
                 ],
                 "line-dasharray": [
                     1,
@@ -5005,11 +5005,11 @@
                         "zoom"
                     ],
                     13,
-                    "#BEC6DA",
+                    "#cc0000",
                     16.5,
-                    "#BEC6DA",
+                    "#cc0000",
                     17,
-                    "#B2BAD0"
+                    "#cc0000"
                 ],
                 "line-dasharray": [
                     1,
